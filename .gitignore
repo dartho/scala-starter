@@ -1,0 +1,14 @@
+# sbt / compiler output
+target/
+project/target/
+project/project/
+
+# Metals / Bloop / VS Code language-server state (regenerated on import)
+.metals/
+.bloop/
+.bsp/
+metals.sbt
+
+# OS / editor noise
+.DS_Store
+*.log
